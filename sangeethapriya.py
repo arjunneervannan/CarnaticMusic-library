@@ -12,9 +12,6 @@ from selenium.common.exceptions import UnexpectedAlertPresentException
 from selenium.common.exceptions import NoAlertPresentException
 from selenium.common.exceptions import NoSuchElementException
 
-email = "johnmcparty2020@gmail.com"
-password = "Sangeetha"
-
 artist_list = ["Mysore M Nagaraj,M Manjunath"]
 
 
