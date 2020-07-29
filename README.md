@@ -10,3 +10,5 @@ THIS PROJECT IS A WORK IN PROGRESS.
 
 ### SangeethaPriya
 Sangeethapriya contains one of the biggest and most vast collections of music. The python file sangeethapriya.py scrapes the SangeethaPriya website.
+
+Sangeethapriya.py uses Selenium to impersonate a web user and download all concerts for a specific artist or set of artists.
